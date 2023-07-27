@@ -1,0 +1,11 @@
+C:\Projects\RoutesApi\RoutesApi\obj\Release\net6.0\PubTmp\Out\RoutesApi.exe
+C:\Projects\RoutesApi\RoutesApi\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Projects\RoutesApi\RoutesApi\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Projects\RoutesApi\RoutesApi\obj\Release\net6.0\PubTmp\Out\RoutesApi.dll
+C:\Projects\RoutesApi\RoutesApi\obj\Release\net6.0\PubTmp\Out\RoutesApi.deps.json
+C:\Projects\RoutesApi\RoutesApi\obj\Release\net6.0\PubTmp\Out\RoutesApi.runtimeconfig.json
+C:\Projects\RoutesApi\RoutesApi\obj\Release\net6.0\PubTmp\Out\RoutesApi.pdb
+C:\Projects\RoutesApi\RoutesApi\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Projects\RoutesApi\RoutesApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\RoutesApi\RoutesApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\RoutesApi\RoutesApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
